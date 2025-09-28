@@ -1,5 +1,5 @@
 # Generador-de-claves-
-Es un generador de claves de 16 caracteres, que lo genera de forma aleatoria 
+Es un generador de claves de o más de 16 caracteres u 80 bits, que lo genera de forma aleatoria. (A esto se le considera una contraseña segura.
 
 Se generará una app donde el código se realizará de esta forma: 
 
