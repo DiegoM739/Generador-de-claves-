@@ -17,11 +17,11 @@ Diagramas
 Aquí se muestra el diagrama de flujo creado en RAPTOR para el generador de claves.
 
 ### Visualización
-![Diagrama RAPTOR](Diagrama_de_raptor)
+![Diagrama RAPTOR](Diagrama_de_raptor.png)
 
 ### 📥 Archivo editable
 Si deseas abrir o modificar el diagrama en RAPTOR, puedes descargar el archivo aquí:  
-[Descargar diagrama RAPTOR (.rap)](Autónomo_2)
+[Descargar diagrama RAPTOR (.rap)](Autónomo_2.rap)
 ### Diagrama UML
 ![Diagrama UML](Diagrama%20UML.png)
 
