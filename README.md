@@ -17,7 +17,7 @@ f.	Luego se pondrá la función imprimir al usuario, para mostrar el resultado d
 
 g.	Esto se repetirá cada 60 días, para hacerlo más seguro e ir cambiando claves. 
 
-Diagramas 
+# Diagramas 
 ## Diagrama RAPTOR
 
 Aquí se muestra el diagrama de flujo creado en RAPTOR para el generador de claves.
