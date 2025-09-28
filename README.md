@@ -10,3 +10,11 @@ d.	Luego el código se definirá en unir de una forma aleatoria los 16 caractere
 e.	Poner un paso dentro del código de repetir el proceso hasta tener la longitud deseada para asegurarnos no exista ningún error. 
 f.	Luego se pondrá la función imprimir al usuario, para mostrar el resultado del código. 
 g.	Esto se repetirá cada 60 días, para hacerlo más seguro e ir cambiando claves. 
+
+Diagramas 
+
+### Diagrama UML
+![Diagrama UML](Diagrama%20UML.png)
+
+### Diagrama de Caso
+![Diagrama de Caso](Diagrama%20de%20caso.png)
