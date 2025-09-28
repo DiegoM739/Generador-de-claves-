@@ -17,7 +17,7 @@ Diagramas
 Aquí se muestra el diagrama de flujo creado en RAPTOR para el generador de claves.
 
 ### Visualización
-![Diagrama RAPTOR](Autónomo_2)
+![Diagrama RAPTOR](Diagrama%de%raptor)
 
 ### 📥 Archivo editable
 Si deseas abrir o modificar el diagrama en RAPTOR, puedes descargar el archivo aquí:  
