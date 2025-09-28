@@ -12,7 +12,16 @@ f.	Luego se pondrá la función imprimir al usuario, para mostrar el resultado d
 g.	Esto se repetirá cada 60 días, para hacerlo más seguro e ir cambiando claves. 
 
 Diagramas 
+## Diagrama RAPTOR
 
+Aquí se muestra el diagrama de flujo creado en RAPTOR para el generador de claves.
+
+### Visualización
+![Diagrama RAPTOR](Autónomo_2)
+
+### 📥 Archivo editable
+Si deseas abrir o modificar el diagrama en RAPTOR, puedes descargar el archivo aquí:  
+[Descargar diagrama RAPTOR (.rap)](Autónomo_2)
 ### Diagrama UML
 ![Diagrama UML](Diagrama%20UML.png)
 
