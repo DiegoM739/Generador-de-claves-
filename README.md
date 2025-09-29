@@ -1,9 +1,9 @@
-# Generador-de-claves-
-# Nombre: Diego Alejandro Medina Sánchez 
-# Ingeniería en Software 
-# Trabajo Autónomo 2
+# Generador-de-claves
+## Nombre: Diego Alejandro Medina Sánchez 
+## Ingeniería en Software 
+## Trabajo Autónomo 2
 
-Es un generador de claves de o más de 16 caracteres u 80 bits, que lo genera de forma aleatoria. (A esto se le considera una contraseña segura).
+Es un generador de claves de 16 o más caracteres, es decir 80 o más bits, que lo genera de forma aleatoria. (A esto se le considera una contraseña segura).
 
 Se generará una app donde el código se realizará de esta forma: 
 
