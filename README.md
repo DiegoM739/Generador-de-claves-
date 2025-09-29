@@ -28,8 +28,8 @@ Aquí se muestra el diagrama de flujo creado en RAPTOR para el generador de clav
 ### 📥 Archivo editable
 Si deseas abrir o modificar el diagrama en RAPTOR, puedes descargar el archivo aquí:  
 [Descargar diagrama RAPTOR (.rap)](Autónomo_2.rap)
-### Diagrama UML
-![Diagrama UML](Diagrama%20UML.png)
+### Diagrama de actividad simple
+![Diagrama UML](diagrama_de_actividad.png)
 
 ### Diagrama de Caso
 ![Diagrama de Caso](Diagrama%20de%20caso.png)
