@@ -4,7 +4,7 @@
 ## Trabajo Autónomo 2
 ### Fecha: 19 de octubre de 2025 
 
-Es un generador de claves de 16 o más caracteres, es decir 80 o más bits, que lo genera de forma aleatoria tulitzando mayúsculas, minúsculas, números y símbolos. A esto se le considera una contraseña segura, debido a que pasado los 80 bits .
+Es un generador de claves de 16 o más caracteres, es decir 80 o más bits, que lo genera de forma aleatoria utilizando mayúsculas, minúsculas, números y símbolos. A esto se le considera una contraseña segura, debido a que pasado los 80 bits, esto debido a que la entropía mide el grado de aleatoriedad o denominado incertidumbre de una contraseña, es decir mientras más entropía es más difícil predecir. Este se mide por bits, y cada bit duplica el número posible de combinaciones, es decir 1 bit tiene 2 combinaciones, 2 bits 4 combinaciones y así sucesivamente. En este caso fue fijado los conjuntos y la suma del abecedario en mayúscula, minúscula, números y símbolos era 65, es decir cada puesto tiene 65 combinaciones y la cantidad de caracteres que mínimo será 16, esto se puede escribir cómo un logaritmo: Entropía=log2​(6516)=16×log2​(65)= 6022x16= 96.35 bits . O es igual a que contenga 79 trillones de combinaciones.
 
 Se generará una app donde el código se realizará de esta forma: 
 
