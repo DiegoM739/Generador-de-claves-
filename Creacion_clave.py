@@ -1,4 +1,4 @@
-# Creacion de constraseña de 16 bits
+# Creacion de constraseña de 16 o mas caracteres
 
 from random import randint
 
@@ -9,20 +9,23 @@ NUMBERS= "0123456789"
 SYMBOLS= "@#?"
 ALLOWED= UPPER + LOWER + NUMBERS + SYMBOLS
 
-# Input de longitud al usuario 
-length_pass= int(input("Ingrese la cantidad de caracteres que desea: "))
+def generar_contrasenas():
 
-# Validar minimo 16 caracteres
-if length_pass < 16:
-    length_pass= 16
-
-# Generador de constraseñas donde usamos for_in range para repetir 
-# tantas veces como la longitud que se ingrese en el input 
-clave= ""
-for _ in range(length_pass):
-    posicion= randint(0, len(ALLOWED)- 1)
-    caracter= ALLOWED[posicion]
-    clave= clave + caracter 
+    # Input de longitud al usuario 
+    length_pass= int(input("Ingrese la cantidad de caracteres que desea: "))
+   
+    # Validar minimo 16 caracteres 
+    if length_pass < 16:
+        length_pass = 16
+    # Generador de contraseñas donde usamos for_in range para 
+    # repetir tantas veces cómo la longitud que se ingrese en el input 
+    clave= ""
+    for _ in range(length_pass):
+        posicion= randint(0, len(ALLOWED)- 1) 
+        caracter= ALLOWED[posicion] 
+        clave= clave + caracter 
+    # Retornamos clave 
+    return clave
 
 # Mostrar la clave 
-print("La contraseña generada es:", clave)
+print("La contraseña generada es:", generar_contrasenas())
