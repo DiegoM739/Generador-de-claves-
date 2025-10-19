@@ -2,8 +2,9 @@
 ## Nombre: Diego Alejandro Medina Sánchez 
 ## Ingeniería en Software 
 ## Trabajo Autónomo 2
+### Fecha: 19 de octubre de 2025 
 
-Es un generador de claves de 16 o más caracteres, es decir 80 o más bits, que lo genera de forma aleatoria. (A esto se le considera una contraseña segura).
+Es un generador de claves de 16 o más caracteres, es decir 80 o más bits, que lo genera de forma aleatoria tulitzando mayúsculas, minúsculas, números y símbolos. A esto se le considera una contraseña segura, debido a que pasado los 80 bits .
 
 Se generará una app donde el código se realizará de esta forma: 
 
